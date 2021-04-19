@@ -13,6 +13,7 @@
 1. SearchBar component
 2. Coin component
 3. CoinList component
+4. Layout component
 
 ### SearchBar component
 
@@ -21,6 +22,15 @@
 
 ### Coin component
 
+1. Rendering all passed props
+2. Applying style with module.css file
+
 ### CoinList component
 
 1. Iterating through fetched api request props and passing its values as props to Coin component
+
+### Layout component
+
+1. Placing logo
+2. Attaching routing on click of logo
+3. Implementing style via global module css file
