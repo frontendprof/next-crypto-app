@@ -3,10 +3,10 @@ import React from 'react';
 
 import styles from "./Coin.module.css";
 
-const Coin = () => {
+const Coin = ({name}) => {
     return (
         <div>
-            Coin
+            {name}
         </div>
     )
 }
