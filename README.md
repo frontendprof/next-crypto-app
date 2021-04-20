@@ -34,3 +34,7 @@
 1. Placing logo
 2. Attaching routing on click of logo
 3. Implementing style via global module css file
+
+### pages/coin
+
+1. Configuring /coin/[id] route for each coin click
